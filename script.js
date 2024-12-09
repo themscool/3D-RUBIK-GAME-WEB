@@ -1,6 +1,3 @@
-// Three.js by - https://github.com/mrdoob/three.js/
-// RoundedBoxGeometry by- https://github.com/pailhead/three-rounded-box
-
 const animationEngine = ( () => {
 
   let uniqueID = 0;
